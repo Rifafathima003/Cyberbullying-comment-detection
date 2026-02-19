@@ -44,6 +44,15 @@ This project detects cyberbullying in YouTube comments using Natural Language Pr
 
   SVM achieved the highest accuracy in detecting cyberbullying comments.
 
+▶ How to Run
+
+    1️⃣ Install dependencies
+    
+    pip install -r requirements.txt
+    
+    
+    2️⃣ Open the notebook and run all cells.
+
 📌 Future Improvements:
 
   Deep learning (BERT/LSTM)
